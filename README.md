@@ -1,6 +1,6 @@
 
 # "Eat Safe, Love" (nosql_challenge Repo for module 12)
-![mar season diagram](images/mars.jpg)
+![mar season diagram](images/food_standard_ag.png)
 ---
 ## Table of Contents
 - [Background](#background)
@@ -107,9 +107,9 @@ their journalists and food critics decide where to focus future articles.
         - The first 5 rows of your resulting DataFrame should look something like this:
 
 <p align="center">
-<img src="images/seasons_Mars.webp" alt="mar season diagram" width="500" height="300">
+<img src="images/dataframe_ex.png" alt="example dataframe" width="500" height="300">
 </p>
 ---
 <p align="center">
-<img src="images/seasons_Mars.webp" alt="mar season diagram" width="500" height="300">
+<img src="images/food_pie_pic.jpg" alt="food pie chart" width="500" height="300">
 </p>
