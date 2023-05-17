@@ -4,7 +4,7 @@
 ---
 ## Table of Contents
 - [Background](#background)
-- [Part 1: Database and Jupyter Notebook Set Up](#database-and-Jupyter-Notebook-Set-Up)
+- [Part 1: Database and Jupyter Notebook Set Up](#"part_1")
 - [Part 2: Update the Database](#update-the-Database)
 - [Part 3: Exploratory Analysis](#exploratory-Analysis)
 
@@ -16,7 +16,7 @@ You've been contracted by the editors of a food magazine, Eat Safe, Love, to eva
 their journalists and food critics decide where to focus future articles.
 
 ---
-## Part 1: Database and Jupyter Notebook Set Up <a name="database-and-Jupyter-Notebook-Set-Up"></a>
+## Part 1: Database and Jupyter Notebook Set Up <a id ="part_1"></a>
 
 -  Use NoSQL_setup_starter.ipynb for this section of the challenge
   1. Import the data provided in the establishments.json file from your Terminal. Name the database uk_food and the collection establishments. 
