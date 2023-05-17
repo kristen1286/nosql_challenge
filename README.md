@@ -4,9 +4,9 @@
 ---
 ## Table of Contents
 - [Background](#background)
-- [Part 1: Database and Jupyter Notebook Set Up](#Database-and-Jupyter-Notebook-Set-Up)
-- [Part 2: Update the Database](#Update-the-Database)
-- [Part 3: Exploratory Analysis](#Exploratory-Analysis)
+- [Part 1: Database and Jupyter Notebook Set Up](#database-and-Jupyter-Notebook-Set-Up)
+- [Part 2: Update the Database](#update-the-Database)
+- [Part 3: Exploratory Analysis](#exploratory-Analysis)
 
 ---
 ## Background <a name="background"></a>
@@ -16,7 +16,7 @@ You've been contracted by the editors of a food magazine, Eat Safe, Love, to eva
 their journalists and food critics decide where to focus future articles.
 
 ---
-## Part 1: Database and Jupyter Notebook Set Up <a name="Database-and-Jupyter-Notebook-Set-Up"></a>
+## Part 1: Database and Jupyter Notebook Set Up <a name="database-and-Jupyter-Notebook-Set-Up"></a>
 
 -  Use NoSQL_setup_starter.ipynb for this section of the challenge
   1. Import the data provided in the establishments.json file from your Terminal. Name the database uk_food and the collection establishments. 
@@ -29,7 +29,7 @@ their journalists and food critics decide where to focus future articles.
       -  Find and display one document in the establishments collection using find_one and display with pprint.
   5.  Assign the establishments collection to a variable to prepare the collection for use.
 ---
-## Part 2: Part 2: Update the Database <a name="Update-the-Database"></a>
+## Part 2: Part 2: Update the Database <a name="update-the-Database"></a>
 
 -  The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the
    following changes to the establishments collection:
@@ -72,7 +72,7 @@ their journalists and food critics decide where to focus future articles.
       -  Use update_many to convert RatingValue to integer numbers.
 
 ---
-## Part 3: Exploratory Analysis <a name="Exploratory-Analysis"></a>
+## Part 3: Exploratory Analysis <a name="exploratory-Analysis"></a>
 
 - Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
 
